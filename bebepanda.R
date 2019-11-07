@@ -1,2 +1,0 @@
-panda <- "bebe"
-print(panda)
